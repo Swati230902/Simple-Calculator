@@ -8,3 +8,8 @@ A powerful, feature-rich calculator built using HTML, CSS, and JavaScript design
 * Attractive and modern design with transparent buttons
 * Equal button spanning the full width for easy access
 * Smooth animations and transitions for enhanced user experience
+
+## Technologies Used
+* HTML for structuring the calculator layout
+* CSS for styling and creating the modern and responsive design
+* JavaScript for handling calculations and real-time updates to the display
